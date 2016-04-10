@@ -11,7 +11,7 @@ You don't need to install anything - just start the application and the database
 
 ## Task 1: cause corruption in the database
 Don't change the method deposit10 yet. 
-Change the argument to deposit10 in the main method, so that one of the following happens:
+Change the argument to deposit10 in the main method, so that one of the following happens (pick one):
 
  - money is deposited to ALL accounts instead of one
  - some new account is added
